@@ -24,6 +24,12 @@ Nosso desenvolvimento é guiado pelo arquétipo do Inocente/Idealista. Acreditam
 
 ---
 
+## **Objetivo**
+
+A NovaVita se compromete a impactar positivamente vidas, oferecendo uma abordagem inovadora que prioriza a prevenção, agilidade no tratamento e uma experiência de cuidado centrada no paciente. Esperamos que o NovaVita App e o dispositivo Soul possam beneficiar comunidades inteiras, proporcionando um cuidado de saúde mais eficiente e acessível. A NovaVita está dedicada a contribuir para a saúde global e proporcionar um futuro onde as pessoas possam viver vidas mais saudáveis e conectadas.
+
+---
+
 ## **Como Contribuir**
 
 - 🌐 Explore nossos projetos.
